@@ -1,23 +1,23 @@
-# Getting started with Scratch
+# Commencer avec Scratch
 
-Getting started with Scratch on Raspberry Pi
+Commencer avec Scratch sur Raspberry Pi
 
 ![](cover.png)
 
-Scratch is a visual programming tool which allows the user to create animations and games with a drag-and-drop interface. It allows you to create your own computer games, interactive stories, and animations using some programming techniques without actually having to write code. It’s a great way to get started programming on the Raspberry Pi with young people. To find out more about Scratch, visit the website at [scratch.mit.edu](http://scratch.mit.edu) or see the [Computing At School Raspberry Pi Education Manual](http://pi.cs.man.ac.uk/download/Raspberry_Pi_Education_Manual.pdf).
+Scratch est un outil de programmation visuelle qui permet à l'utilisateur de créer des animations et des jeux avec une interface glisser-déposer. Cela nous permet de créer nos propres jeux vidéo, des histoires intéractives, et des animations en utilisation des techniques de programmation sans avoir vraiment à écrire du code. C'est une excellente façon pour initier les jeunes à la programmation avec un Raspberry Pi. Pour savoir plus sur Scratch, visiter le site web [scratch.mit.edu](http://scratch.mit.edu).
 
 ![](images/scratch-interface.png)
 
-## The Worksheet
+## Le déroulement
 
-- [The Worksheet](worksheet.md)
+- [Le déroulement](worksheet.md)
 
 ## Licence
 
-Unless otherwise specified, everything in this repository is covered by the following licence:
+Sauf indication contraire, tout dans ce référentiel est couvert par la licence suivante:
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ***Getting Started with Scratch*** by the [Raspberry Pi Foundation](http://www.raspberrypi.org) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Based on a work at https://github.com/raspberrypilearning/getting-started-with-scratch
+Basé sur un travail sur: https://github.com/raspberrypilearning/getting-started-with-scratch
