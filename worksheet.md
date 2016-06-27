@@ -1,14 +1,14 @@
-# Getting Started with Scratch
+# Commencer avec Scratch
 
-Scratch is a visual programming tool which allows the user to create animations and games with a drag-and-drop interface. It allows you to create your own computer games, interactive stories, and animations using some programming techniques without actually having to write code. It’s a great way to get started programming on the Raspberry Pi with young people.
+Scratch est un outil de programmation visuelle qui permet à l'utilisateur de créer des animations et des jeux dans une interface glisser-déposer. Cela nous permet de créer nos propres jeux vidéo, des histoires intéractives, et des animations en utilisant des techniques de programmation sans avoir vraiment à écrire des lignes de code. C'est une excellente façon pour initier les jeunes à la programmation avec un Raspberry Pi.
 
-## Getting started
+## Introduction
 
-You'll find Scratch on the desktop of Raspbian and in the applications menu under **Education**. Once opened you will see a window like this:
+Vous trouverez Scratch dans le bureau de Raspbien ou Ubuntu Mate et dans **Education** du menu d'applications.  Quand vous l'ouvrez vous verrez une fenêtre comme celle-ci: 
 
 ![](images/scratch-interface.png)
 
-## Make the Scratch cat move
+## Fait bouger le chat Scratch
 
 The cat in the white preview window is an example of a **sprite** in Scratch. Currently the Scratch cat sprite is on a blank **stage**. Let's get the cat to move.
 
