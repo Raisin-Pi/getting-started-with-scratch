@@ -4,7 +4,7 @@ Commencer avec Scratch sur Raspberry Pi
 
 ![](cover.png)
 
-Scratch est un outil de programmation visuelle qui permet à l'utilisateur de créer des animations et des jeux avec une interface glisser-déposer. Cela nous permet de créer nos propres jeux vidéo, des histoires intéractives, et des animations en utilisation des techniques de programmation sans avoir vraiment à écrire du code. C'est une excellente façon pour initier les jeunes à la programmation avec un Raspberry Pi. Pour savoir plus sur Scratch, visiter le site web [scratch.mit.edu](http://scratch.mit.edu).
+Scratch est un outil de programmation visuelle qui permet à l'utilisateur de créer des animations et des jeux dans une interface glisser-déposer. Cela nous permet de créer nos propres jeux vidéo, des histoires intéractives, et des animations en utilisant des techniques de programmation sans avoir vraiment à écrire des lignes de code. C'est une excellente façon pour initier les jeunes à la programmation avec un Raspberry Pi. Pour savoir plus sur Scratch, visiter le site web [scratch.mit.edu](http://scratch.mit.edu).
 
 ![](images/scratch-interface.png)
 
