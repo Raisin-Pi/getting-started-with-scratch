@@ -14,8 +14,8 @@ Le chat qui se trouve dans la fenêtre blanche est un exemple des **lutins** dan
 
 1. Cliquer sur sprite le chat de Scratch.
 2. Ensuite cliquer sur les blocs de la palette et selectionner **Control**.
-3. Next drag a **When green flag clicked** block and place it on the scripts area in the middle of the screen.
-4. Add a blue **Move 10 steps** block from the **Motion** blocks palette and connect it to the **When green flag clicked** block.
+3. Glisser le bloc **Quand le drapeau vert est cliqué** et les mettre dans la zone de script au milieu de l'écran.
+4. Ajouter un bloc bleu **Move 10 steps** block from the **Motion** blocks palette and connect it to the **When green flag clicked** block.
 5. Now click the green flag icon in the top right hand side of the screen and see the cat move!
 6. How would you get the cat to move further?
 
