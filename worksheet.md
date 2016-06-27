@@ -4,36 +4,36 @@ Scratch est un outil de programmation visuelle qui permet à l'utilisateur de cr
 
 ## Introduction
 
-Vous trouverez Scratch dans le bureau de Raspbien ou Ubuntu Mate et dans **Education** du menu d'applications.  Quand vous l'ouvrez vous verrez une fenêtre comme celle-ci: 
+Vous trouverez Scratch dans le bureau de Raspbien ou Ubuntu Mate et ensuite dans **Education** du menu d'applications.  Quand vous l'ouvrez vous verrez une fenêtre comme celle-ci: 
 
 ![](images/scratch-interface.png)
 
-## Fait bouger le chat Scratch
+## Faites bouger le chat Scratch
 
 Le chat qui se trouve dans la fenêtre blanche est un exemple des **lutins** dans Scratch. Actuellemnt le chat de Scratch sprite est dans une **scène** vierge.  Faisons bouger le chat.
 
-1. Cliquer sur sprite le chat de Scratch.
-2. Ensuite cliquer sur les blocs de la palette et selectionner **Control**.
-3. Glisser le bloc **Quand le drapeau vert est cliqué** et les mettre dans la zone de script au milieu de l'écran.
-4. Ajouter un bloc bleu **Move 10 steps** block from the **Motion** blocks palette and connect it to the **When green flag clicked** block.
-5. Now click the green flag icon in the top right hand side of the screen and see the cat move!
-6. How would you get the cat to move further?
+1. Cliquez sur sprite le chat de Scratch.
+2. Ensuite cliquez sur les blocs de la palette et selectionnez **Evènements**.
+3. Glissez le bloc **Quand le drapeau vert est cliqué** et mettez-le dans la zone de script au milieu de l'écran.
+4. Ajoutez un bloc bleu **Avancer de 10** de la palette de blocs **Mouvement** et connectez-le au bloc **Quand le drapeau vert est cliqué** .
+5. Maintenant cliquez l'image du drapeau vert qui se trouve en haut à droit de l'écran et regardez le chat bouger!
+6. Pouvez-vous faire bouger le chat encore plus loin? 
 
-![](images/scratch-1.png)
+![](images/Scratch1.png)
 
-## Changing the way the sprite looks
+## Changer l'apparence du lutin
 
-All sprites in Scratch can wear different costumes.
+Tous les lutins dans Scratch peuvent porter des costumes différents.
 
-1. Click on your sprite to select it. In the **Scripts** area in the middle of the screen, click on the **Costumes** tab.
-2. You will see that the cat has two costumes. Click on Copy to make a third costume and a new cat costume should appear.
-3. Select **costume3** and click on **Edit**. This will open the **Paint Editor**. Experiment with all the buttons and tools to find out what they do.
-4. Next, draw some clothes on the costume and click **OK**.
-5. To switch between costumes, click on the **Scripts** tag. Add the purple **Looks** block, **Switch to Costume**, to the other blocks and connect it.
-6. Select **costume3** from the drop-down menu on the purple block.
-7. Now run your program to see the costume change.
+1. Cliquez sur le lutin pour le selectionner. Cliquez sur l'étiquette **Costumes** qui se trouve au milieu de l'écran.
+2. Vous verrez que le chat a deux costumes. Cliquez sur Dupliquer pour créer un troisième costume. Un nouveau costume de chat doit apparaître.
+3. Selectionnez **costume3** pour l'éditer. Amusez-vous à tester tous les boutons et outils pour trouver ce qu'ils font.
+4. Ensuite, dessiner quelques vêtements dans le costume et cliquez sur **OK**.
+5. Pour alterner entre les costumes, cliquez sur l'étiquette **Scripts**. Ajoutez le bloc violet **Apparence** , **Basculer sur costume**, glissez-le vers les autres blocs et connectez-le.
+6. Selectionnez **costume3** dans le menu déroulant qui se trouve dans le bloc violet.
+7. Maintenant faites tourner le programme pour voir que le costume change.
 
-![](images/scratch-2.png)
+![](images/Scratch2.png)
 
 ## Add Sprites
 
