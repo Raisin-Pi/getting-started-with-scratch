@@ -44,7 +44,7 @@ Si le chat de Scratch ne vous convient pas, vous pouvez ajouter d'autres lutins 
 3. Le second icône vous permet de **Choisir un nouveau lutin** de ceux qui existent déjà dans Scratch ou qui ont été enregistrés dans votre Raspberry Pi. Cliquez sur cela et vous serez capables de naviguer dans les fichiers qui contiennent ces lutins et ensuite selectionner celui que vous souhaitez.
 4. Le troisième icône , quand cliqué, vous donnera un **lutin surprise**.  Cliquez-le et vous verrez ce qui se passera!
 
-![](images/new-sprite.png)
+![](images/Scratch3.png)
 
 ## What next?
 - Now you know the basics of the Scratch, why not try completing the [Robot Antenna Resource](http://www.raspberrypi.org/learning/robot-antenna/) to make an LED blink.
