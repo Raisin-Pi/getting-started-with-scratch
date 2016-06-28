@@ -35,14 +35,14 @@ Tous les lutins dans Scratch peuvent porter des costumes différents.
 
 ![](images/Scratch2.png)
 
-## Add Sprites
+## Ajouter des lutins
 
-If you feel that the Scratch cat sprite does not suit your needs then you can add other sprites, or even create your own!
+Si le chat de Scratch ne vous convient pas, vous pouvez ajouter d'autres lutins ou même en créer vos propres!
 
-1. At the top of the Sprites palette are three icons to create a new sprite.
-2. The first allows you to **Paint your own sprite**. Click on this and it will open the **Paint Editor** window. Here you can use shapes, lines, and freehand drawings to make fun characters.
-3. The second icon allows you to **Choose a new sprite** from those already built into Scratch or saved on your Raspberry Pi. Click on this, and you will be able to navigate to the folders containing those sprites and select one you like.
-4. The third icon will, when clicked, give you a **surprise sprite**. Click this and see what happens!
+1. Au dessus de la palette des lutins il y a trois icônes pour créer un nouveau lutin.
+2. Le premier vous permet de **Dessiner un nouveau lutin**. Cliquez sur cela et la fenêtre d' **Editeur de la peinture** s'ouvrira. Ici vous pouvez utiliser des formes, lignes et dessins libres pour créer vos lutins.
+3. Le second icône vous permet de **Choisir un nouveau lutin** de ceux qui existent déjà dans Scratch ou qui ont été enregistrés dans votre Raspberry Pi. Cliquez sur cela et vous serez capables de naviguer dans les fichiers qui contiennent ces lutins et ensuite selectionner celui que vous souhaitez.
+4. Le troisième icône , quand cliqué, vous donnera un **lutin surprise**.  Cliquez-le et vous verrez ce qui se passera!
 
 ![](images/new-sprite.png)
 
