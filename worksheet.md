@@ -10,9 +10,9 @@ Vous trouverez Scratch dans le bureau de Raspbien ou Ubuntu Mate et ensuite dans
 
 ## Faites bouger le chat de Scratch
 
-Le chat qui se trouve dans la fenêtre blanche est un exemple des **lutins** dans Scratch. Actuellement le lutin le chat de Scratch est dans une **scène** vierge.  Faisons bouger le chat.
+Le chat qui se trouve dans la fenêtre blanche est un exemple des **lutins** dans Scratch. Actuellement le chat, le lutin de Scratch est dans une **scène** vierge.  Faisons bouger le chat.
 
-1. Cliquez sur le lutin le chat de Scratch.
+1. Cliquez sur le chat, le lutin de Scratch.
 2. Ensuite cliquez sur la palette de blocs et selectionnez **Contrôle**.
 3. Glissez le bloc **quand le drapeau vert est pressé** et mettez-le dans la zone de script au milieu de l'écran.
 4. Ajoutez un bloc bleu **Avancer de 10 pas** de la palette de blocs **Mouvement** et connectez-le au bloc **quand le drapeau vert est pressé** .
