@@ -6,4 +6,4 @@ Sauf spécification expresse, tout le contenu de ce répertoire est fourni sous 
 
 ***Getting Started with Scratch*** de la [Fondation Raspberry Pi](http://raspberrypi.org) est fourni sous  [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
 
-D'après le travail réalisé sous https://github.com/raspberrypilearning/demo-programs
+D'après le travail réalisé sous https://github.com/raspberrypilearning/getting-started-with-scratch
