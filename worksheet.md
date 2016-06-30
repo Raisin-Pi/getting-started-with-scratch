@@ -19,7 +19,7 @@ Le chat qui se trouve dans la fenêtre blanche est un exemple des **lutins** dan
 5. Maintenant cliquez l'image du drapeau vert qui se trouve en haut à droit de l'écran et regardez le chat bouger!
 6. Pouvez-vous faire avancer le chat encore plus loin? 
 
-![](images/Scratch1.png)
+![](images/Capture-1.png)
 
 ## Changer l'apparence du lutin
 
@@ -33,7 +33,7 @@ Tous les lutins dans Scratch peuvent porter des costumes différents.
 6. Selectionnez **costume3** dans le menu déroulant qui se trouve dans le bloc violet.
 7. Maintenant lancer le programme pour observer le changement du costume.
 
-![](images/Scratch2.png)
+![](images/Capture-2.png)
 
 ## Ajouter des lutins
 
@@ -44,7 +44,7 @@ Si le chat de Scratch ne vous convient pas, vous pouvez ajouter d'autres lutins 
 3. Le second icône vous permet de **Choisir un nouvel objet dans un dossier** de ceux qui existent déjà dans Scratch ou qui ont été enregistrés dans votre Raspberry Pi. Cliquez sur cela et vous serez capables de naviguer dans les fichiers qui contiennent ces lutins et ensuite selectionner celui que vous souhaitez.
 4. Le troisième icône , quand cliqué, vous permettra d'**obtenir un objet surprise**.  Cliquez-le et vous verrez ce qui se passera!
 
-![](images/Scratch3.png)
+![](images/Capture.png)
 
 ## Pour aller plus loin
 Maintenant que vous connaissez les bases de Scratch, pourquoi ne pas essayer de compléter la ressource  [Robot Antenna](http://www.raspberrypi.org/learning/robot-antenna/) pour faire clignoter une LED.
