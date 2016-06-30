@@ -14,10 +14,10 @@ Scratch est un outil de programmation visuelle qui permet à l'utilisateur de cr
 
 ## Licence
 
-Sauf indication contraire, tout dans ce référentiel est couvert par la licence suivante:
+Sauf autres précisions, tout ce qui se trouve dans cet répertoire est couvert par la licence suivante :
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-***Getting Started with Scratch*** by the [Raspberry Pi Foundation](http://www.raspberrypi.org) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***Bien commencer avec Scratch*** par la [Raspberry Pi Foundation](http://www.raspberrypi.org) est crée sous une licence [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Basé sur un travail dans: https://github.com/raspberrypilearning/getting-started-with-scratch
+Basé sur le matériel disponible à: https://github.com/raspberrypilearning/getting-started-with-scratch
