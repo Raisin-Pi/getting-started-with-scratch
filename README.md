@@ -20,4 +20,4 @@ Sauf autres précisions, tout ce qui se trouve dans cet répertoire est couvert 
 
 ***Bien commencer avec Scratch*** par la [Raspberry Pi Foundation](http://www.raspberrypi.org) est crée sous une licence [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Basé sur le matériel disponible à: https://github.com/raspberrypilearning/getting-started-with-scratch
+D'après un travail paru sur https://github.com/raspberrypilearning/getting-started-with-scratch fait par Melpomeni Papadopoulou pour le projet [D-Clics Numériques](http://d-clicsnumeriques.org/) 
