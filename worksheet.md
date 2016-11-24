@@ -1,10 +1,10 @@
 # Commencer avec Scratch
 
-Scratch est un outil de programmation visuelle qui permet à l'utilisateur de créer des animations et des jeux dans une interface glisser-déposer. Cela nous permet de créer nos propres jeux vidéo, des histoires intéractives et des animations en utilisant des techniques de programmation sans avoir pour autant à écrire des lignes de code. C'est une excellente façon pour initier les jeunes à la programmation avec un Raspberry Pi.
+Scratch est un outil de programmation visuelle qui permet à l'utilisateur de créer des animations et des jeux dans une interface glisser-déposer. Cela nous permet de créer nos propres jeux vidéo, des histoires interactives et des animations en utilisant des techniques de programmation sans avoir pour autant à écrire des lignes de code. C'est une excellente façon pour initier les jeunes à la programmation avec un Raspberry Pi.
 
 ## Introduction
 
-Vous trouverez Scratch dans le bureau de Raspbien ou Ubuntu Mate et ensuite dans **Education** du menu d'applications.  Quand vous l'ouvrez vous verrez une fenêtre comme celle-ci: 
+Vous trouverez Scratch dans le bureau de Raspbian ou Ubuntu Mate et ensuite dans **Education** du menu d'applications.  Quand vous l'ouvrez, vous voyez une fenêtre comme celle-ci: 
 
 ![](images/scratch-interface.png)
 
@@ -13,9 +13,9 @@ Vous trouverez Scratch dans le bureau de Raspbien ou Ubuntu Mate et ensuite dans
 Le chat qui se trouve dans la fenêtre blanche est un exemple des **lutins** dans Scratch. Actuellement le chat, le lutin de Scratch est dans une **scène** vierge.  Faisons bouger le chat.
 
 1. Cliquez sur le chat, le lutin de Scratch.
-2. Ensuite cliquez sur la palette de blocs et selectionnez **Contrôle**.
+2. Ensuite cliquez sur la palette de blocs et sélectionnez **Contrôle**.
 3. Glissez le bloc **quand le drapeau vert est pressé** et mettez-le dans la zone de script au milieu de l'écran.
-4. Ajoutez un bloc bleu **Avancer de 10 pas** de la palette de blocs **Mouvement** et connectez-le au bloc **quand le drapeau vert est pressé** .
+4. Ajoutez un bloc bleu **Avancer de 10 pas** de la palette de blocs **Mouvement** et connectez-le au bloc **quand le drapeau vert est pressé**.
 5. Maintenant cliquez l'image du drapeau vert qui se trouve en haut à droit de l'écran et regardez le chat bouger!
 6. Pouvez-vous faire avancer le chat encore plus loin? 
 
@@ -25,12 +25,12 @@ Le chat qui se trouve dans la fenêtre blanche est un exemple des **lutins** dan
 
 Tous les lutins dans Scratch peuvent porter des costumes différents.
 
-1. Cliquez sur le lutin pour le selectionner. Cliquez sur l'étiquette **Costumes** qui se trouve au milieu de l'écran.
+1. Cliquez sur le lutin pour le sélectionner. Cliquez sur l'étiquette **Costumes** qui se trouve au milieu de l'écran.
 2. Vous verrez que le chat a deux costumes. Cliquez sur **Dupliquer** pour créer un troisième costume. Un nouveau costume de chat doit apparaître.
-3. Selectionnez **costume3** pour l'éditer. Amusez-vous à tester tous les boutons et outils pour découvrir leurs usages.
+3. Sélectionnez **costume3** pour l'éditer. Amusez-vous à tester tous les boutons et outils pour découvrir leurs usages.
 4. Ensuite, dessiner quelques vêtements dans le costume et cliquez sur **OK**.
-5. Pour alterner entre les costumes, cliquez sur l'étiquette **Scripts**. Ajoutez le bloc violet **Apparence** , **Basculer sur costume**, glissez-le vers les autres blocs et connectez-le.
-6. Selectionnez **costume3** dans le menu déroulant qui se trouve dans le bloc violet.
+5. Pour alterner entre les costumes, cliquez sur l'étiquette **Scripts**. Ajoutez le bloc violet **Apparence**, **Basculer sur costume**, glissez-le vers les autres blocs et connectez-le.
+6. Sélectionnez **costume3** dans le menu déroulant qui se trouve dans le bloc violet.
 7. Maintenant lancer le programme pour observer le changement du costume.
 
 ![](images/Capture-2.png)
@@ -40,11 +40,11 @@ Tous les lutins dans Scratch peuvent porter des costumes différents.
 Si le chat de Scratch ne vous convient pas, vous pouvez ajouter d'autres lutins ou même en créer vos propres!
 
 1. Au-dessus de la palette des lutins il y a trois icônes pour créer des nouveaux lutins.
-2. Le premier vous permet de **Dessiner un nouvel objet**. Cliquez sur cela et la fenêtre d' **Editeur graphique** s'ouvrira. Ici vous pouvez utiliser des formes, lignes et dessins libres pour créer vos lutins.
-3. Le second icône vous permet de **Choisir un nouvel objet dans un dossier** de ceux qui existent déjà dans Scratch ou qui ont été enregistrés dans votre Raspberry Pi. Cliquez sur cela et vous serez capables de naviguer dans les fichiers qui contiennent ces lutins et ensuite selectionner celui que vous souhaitez.
-4. Le troisième icône , quand cliqué, vous permettra d'**obtenir un objet surprise**.  Cliquez-le et vous verrez ce qui se passera!
+2. Le premier vous permet de **Dessiner un nouvel objet**. Cliquez sur cela et la fenêtre d'**Editeur graphique** s'ouvrira. Ici vous pouvez utiliser des formes, lignes et dessins libres pour créer vos lutins.
+3. Le second icône vous permet de **Choisir un nouvel objet dans un dossier** de ceux qui existent déjà dans Scratch ou qui ont été enregistrés dans votre Raspberry Pi. Cliquez sur cela et vous serez capables de naviguer dans les fichiers qui contiennent ces lutins et ensuite sélectionner celui que vous souhaitez.
+4. Le troisième icône, quand cliqué, vous permettra d'**obtenir un objet surprise**.  Cliquez-le et vous verrez ce qui se passera!
 
 ![](images/Capture.png)
 
 ## Pour aller plus loin
-Maintenant que vous connaissez les bases de Scratch, pourquoi ne pas essayer de compléter la ressource  [Robot Antenna](http://www.raspberrypi.org/learning/robot-antenna/) pour faire clignoter une LED.
+Maintenant que vous connaissez les bases de Scratch, pourquoi ne pas essayer de compléter la ressource  [Robot Antenna](http://www.raspberrypi.org/learning/robot-antenna/)  pour faire clignoter une LED.
